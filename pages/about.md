@@ -3,4 +3,4 @@ layout: misc
 title: About
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+A movie review blog at its core, The Unabashed Cinephile is a comprehensive weekly review space for anything and everything that is associated with the film world, in India and abroad. It serves to uncover the realm of filmmaking as an art form and capture the drama behind the lens, not just in front of it. Authored by Shawn Fernandes, an avid movie buff, this blog aims to encapsulate the diverse aspects of the movies and introduce the audience to a better understanding of cinema.
