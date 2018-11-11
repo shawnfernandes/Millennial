@@ -7,11 +7,11 @@ tags: [documentation,sample]
 image: cuba-1.jpg
 ---
 
-                              SANJU 
+                                            SANJU 
 
 Rajkumar Hirani, through his cult films like the Munnabhai Series and 3 Idiots, has shown his outstanding
 ability to succinctly capture the emotional trajectories of its leading characters. In Sanju, Hirani
-enhances his burgeoning reputation as a master storyteller. However, truth be told, this story is very 
+enhances his burgeoning reputation as a master storyteller. However, in all fairness, the story is very 
 subtly biased towards his protagonist, omitting incidents and events from real life that had an
 equivalent if not greater impact on his outlook and personality as a man.
 
