@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "SANJU"
+title: "SANJU - One man, Many Lives!"
 author: "Shawn Fernandes"
 categories: documentation
 tags: [documentation,sample]
 image: cuba-1.jpg
 ---
 
-                              SANJU – one man, many lives
+                              SANJU 
 
 Rajkumar Hirani, through his cult films like the Munnabhai Series and 3 Idiots, has shown his outstanding
 ability to succinctly capture the emotional trajectories of its leading characters. In Sanju, Hirani
