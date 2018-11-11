@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SANJU- One Man, many lives!"
+title: "SANJU"
 author: "Shawn Fernandes"
 categories: documentation
 tags: [documentation,sample]
