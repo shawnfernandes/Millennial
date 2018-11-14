@@ -15,8 +15,8 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "The Unabashed Cinephile"
-description:	       "An unbiased and unflinching perspective on the world of Cinema"
-author:              "Shawn Fernandes"
+description:	       "An unbiased and unflinching perspective on the world of Cinema by Shawn Fernandes"
+author:              
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
