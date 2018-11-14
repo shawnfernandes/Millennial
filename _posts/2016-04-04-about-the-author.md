@@ -4,7 +4,7 @@ title: "About the Author"
 author: "Shawn Fernandes"
 categories: facts
 tags: [sample]
-image:  shawnfernandes.github.io/1530184953_sanju-poster.jpg
+image:  cuba-1.jpg
       
 ---
 
