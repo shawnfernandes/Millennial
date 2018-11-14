@@ -4,8 +4,7 @@ title: "SANJU - One man, Many Lives!"
 author: "Shawn Fernandes"
 categories: documentation
 tags: [documentation,sample]
-image: 
-        shawnfernandes.github.io/1530184953_sanju-poster.jpg
+image: cuba-1.jpg
       
 ---
 
