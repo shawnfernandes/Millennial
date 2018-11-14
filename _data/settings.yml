@@ -6,10 +6,10 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Reviews', folder: 'pages', file: 'facts.html'}
-- {name: 'Memarobilia', folder: 'pages', file: 'resources.html'}
+- {name: 'CINEMAGIC', folder: 'pages', file: 'facts.html'}
+- {name: 'Snippets', folder: 'pages', file: 'resources.html'}
 - {name: 'Shorts', folder: 'pages', file: 'sample-posts.html'}
-- {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
+- {name: 'BLAST from the PAST', folder: 'pages', file: 'documentation.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
