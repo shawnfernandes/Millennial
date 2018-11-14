@@ -9,7 +9,7 @@ menu:
 - {name: 'CINEMAGIC', folder: 'pages', file: 'facts.html'}
 - {name: 'Snippets', folder: 'pages', file: 'resources.html'}
 - {name: 'Shorts', folder: 'pages', file: 'sample-posts.html'}
-- {name: 'BLAST from the PAST', folder: 'pages', file: 'documentation.html'}
+- {name: 'Facts', folder: 'pages', file: 'documentation.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
