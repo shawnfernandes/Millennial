@@ -1,3 +1,4 @@
 User-agent: *
 Sitemap: /sitemap.xml
-Disallow :/pages/resources.html
+Disallow :/pages/resources.html/
+Disallow : /cache
